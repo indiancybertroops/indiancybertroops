@@ -16,7 +16,10 @@
   <a href="https://Indiancybertroops.org">
     <img align="left" alt="Indian Cyber Troops Web" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/vercel.svg" />
   </a>
-  
+   <a href="https://t.me/indiancybertroops">
+    <img align="left" alt="Indian Cyber Troops Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
+  </a>
+
 </p>
 </br>
 </br>
