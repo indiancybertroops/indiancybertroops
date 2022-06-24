@@ -1,6 +1,17 @@
 ## Namaste 🙏🏻
+We Are Indian Cyber Troops We Are Indian Hackers,Developer,Coder,Security Researchers,Ethical Hackers,Indian,Sanatani,Students,Bug Hunters
+
+### About 🙋🏻‍♂️
+```python
+Name = "Indian Cyber Troops"
+What_We_Do = ['Developer','Coder','Security Researchers','Ethical Hackers','Indian','Sanatani','Students','Bug Hunters']
+Why_we_Formed_Team = To Help Common People Of India,To Save Nation
+Religion = "Hinduism"
+```
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40Indian-Cyber-Troops~%23+whoami;%E2%9C%93+Indian+Hacker;%E2%9C%93+Web+Pentester;%E2%9C%93+Indian+Cyber+Space+Troops+;%E2%9C%93+Developer+;%E2%9C%93+Open+source+Toolmaker+)](https://git.io/typing-svg)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=indiancybertroops&theme=onedark&row=1&margin-w=2&margin-h=2)](https://github.com/indiancybertroops)
 ### Available 👇
 <p>
  
@@ -28,13 +39,6 @@
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/indiancybertroops/&title=Profile%20Views)
 
 
-### About 🙋🏻‍♂️
-```python
-name = "Indian Cyber Troops"
-what_We_Do = ['Developer','Coder','Security Researchers','Ethical Hackers','Indian','Sanatani','Students']
-why_we_Formed_team = To Help Common People Of India
-religion = "Hinduism"
-```
 
 
 ### Skills 👨‍💻
