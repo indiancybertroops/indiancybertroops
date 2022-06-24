@@ -1,5 +1,5 @@
 ## Namaste 🙏🏻
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40Indian-Cyber-Troops~%23+whoami;%E2%9C%93+Indian+Hacker;%E2%9C%93+Web+Pentester;%E2%9C%93+Indian+Cyber+Space+Troops+;%E2%9C%93+Developer+;%E2%9C%93+Open+source+Toolmaker+)](https://git.io/typing-svg)
 
 ### Available 👇
 <p>
