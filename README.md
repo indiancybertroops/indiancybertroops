@@ -6,7 +6,7 @@ We Are Indian Cyber Troops We Are Indian Hackers,Developer,Coder,Security Resear
 Name = "Indian Cyber Troops"
 What_We_Do = ['Developer','Coder','Security Researchers','Ethical Hackers','Indian','Sanatani','Students','Bug Hunters']
 Why_we_Formed_Team = To Help Common People Of India,To Save Nation
-Religion = "Hinduism"
+Religion = "Hackers"
 ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40Indian-Cyber-Troops~%23+whoami;%E2%9C%93+Indian+Hacker;%E2%9C%93+Web+Pentester;%E2%9C%93+Indian+Cyber+Space+Troops+;%E2%9C%93+Developer+;%E2%9C%93+Open+source+Toolmaker+)](https://git.io/typing-svg)
