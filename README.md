@@ -63,4 +63,4 @@ Religion = "Hackers"
 ### Stats ⚡️
 
 ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=indiancybertroops&tc=333&ic=333)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indiancybertroops&layout=compact&theme=tokyday" alt="languages" height="194">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indiancybertroops&layout=compact&theme=tokyday" alt="languages" height="195">
